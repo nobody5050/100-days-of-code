@@ -28,3 +28,11 @@
 **Link(s) to work**
 1. [Blog post!](https://dev.to/nobody5050/static-blogs-the-good-the-bad-and-the-ugly-39km)
 2. [Site landing with gradient on CTA](https://codepen.io/nobody5050/pen/QWjNejq)
+
+### Day 2: April 19, Sunday
+
+**Today's Progress**: Removed some info from landing page. might add it back in the future but for now I will reserve that for secondary pages
+
+**Link(s) to work**
+1. [Same thing from yesterday.](https://codepen.io/nobody5050/pen/QWjNejq)
+
