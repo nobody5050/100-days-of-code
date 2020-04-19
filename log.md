@@ -19,12 +19,12 @@
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
 
-### Day 1: June 27, Monday
+### Day 1: April 18, Saturday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Added a gradient to the CTA button, added a backround image to the sites landing, revamped the actionbar. oh and i wrote my first blog post
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** The blog post is my greatest accomplishment today and i'm really enjoying the webdev work too
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Blog post!](https://dev.to/nobody5050/static-blogs-the-good-the-bad-and-the-ugly-39km)
+2. [Site landing with gradient on CTA](https://codepen.io/nobody5050/pen/QWjNejq)
