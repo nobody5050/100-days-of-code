@@ -36,3 +36,11 @@
 **Link(s) to work**
 1. [Same thing from yesterday.](https://codepen.io/nobody5050/pen/QWjNejq)
 
+## Day 3: April 20, Monday
+
+**Today's Progress**: Did absolutely nothing.
+
+**Link(s) to work**
+1. nothing
+
+
