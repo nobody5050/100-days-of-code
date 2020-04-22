@@ -17,11 +17,16 @@
 **Link(s) to work**
 1. [Same thing from yesterday.](https://codepen.io/nobody5050/pen/QWjNejq)
 
-## Day 3: April 20, Monday
+### Day 3: April 20, Monday
 
 **Today's Progress**: Did absolutely nothing.
 
 **Link(s) to work**
 1. nothing
 
+### Day 4: April 21, Tuesday
 
+**Today's Preogress**: Spent most of the day working on homework, but did manage to get drafted for building a discord bot. (atleast helping) looked into replacing navbar with hamburger menu, and tbh I feel like much of the web design could use work. tomorrow i'm going to try write another blog post.
+
+**Link(s) to work**
+1. [hopefully future dahlia website. design is not finalized](https://codepen.io/nobody5050/pen/QWjNejq)
