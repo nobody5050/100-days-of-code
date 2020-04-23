@@ -26,7 +26,14 @@
 
 ### Day 4: April 21, Tuesday
 
-**Today's Preogress**: Spent most of the day working on homework, but did manage to get drafted for building a discord bot. (atleast helping) looked into replacing navbar with hamburger menu, and tbh I feel like much of the web design could use work. tomorrow i'm going to try write another blog post.
+**Today's Progress**: Spent most of the day working on homework, but did manage to get drafted for building a discord bot. (atleast helping) looked into replacing navbar with hamburger menu, and tbh I feel like much of the web design could use work. tomorrow i'm going to try write another blog post.
 
 **Link(s) to work**
 1. [hopefully future dahlia website. design is not finalized](https://codepen.io/nobody5050/pen/QWjNejq)
+
+### Day 5! April 22, Wednesday
+
+**Today's Progress**: Finally settled on a design for dahlia website? (nope.) tried a bootstrap theme this time, and it didnt work. had an idea to porn zircon to project ara. really Ithink zircon is still too monolithic in structure.
+
+**Link(s) to work**
+nope. nothing today
