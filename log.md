@@ -33,7 +33,14 @@
 
 ### Day 5! April 22, Wednesday
 
-**Today's Progress**: Finally settled on a design for dahlia website? (nope.) tried a bootstrap theme this time, and it didnt work. had an idea to porn zircon to project ara. really Ithink zircon is still too monolithic in structure.
+**Today's Progress**: Finally settled on a design for dahlia website? (nope.) tried a bootstrap theme this time, and it didnt work. had an idea to port zircon to project ara. really Ithink zircon is still too monolithic in structure.
 
 **Link(s) to work**
-nope. nothing today
+nothing
+
+## Day 6: April 23, Thursday
+
+**Today's Progress**: spent some time designing a hardware build. really liking that bootstrap theme
+
+**Link(s) to work**
+nothing
