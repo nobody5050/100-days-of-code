@@ -38,9 +38,16 @@
 **Link(s) to work**
 nothing
 
-## Day 6: April 23, Thursday
+### Day 6: April 23, Thursday
 
 **Today's Progress**: spent some time designing a hardware build. really liking that bootstrap theme
 
 **Link(s) to work**
 nothing
+
+### Day 7: April 24, Friday
+
+**Today's Progress**: made my first ever 3d model! its a small prototype for a product i'm designing. (more details to come)
+
+**Link(s) to work**
+you know, if I keep not putting anything here I should really think about removing it entirely...
