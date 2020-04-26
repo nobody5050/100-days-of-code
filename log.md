@@ -51,3 +51,10 @@ nothing
 
 **Link(s) to work**
 you know, if I keep not putting anything here I should really think about removing it entirely...
+
+### Day 8: April 25, Saturday
+
+**today's Progress**: spent some time refining my model. It's getting better, but I might need to refine it for 3d printing.
+
+**Link(s) to work**
+1. [for the first time in foreverrrr](http://www.tinkercad.com/things/e2GKFCrpMWB)
