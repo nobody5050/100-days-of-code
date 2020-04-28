@@ -58,3 +58,12 @@ you know, if I keep not putting anything here I should really think about removi
 
 **Link(s) to work**
 1. [for the first time in foreverrrr](http://www.tinkercad.com/things/e2GKFCrpMWB)
+
+### Day 9: April 27, Monday
+
+**Today's Progress**: Didnt code at all yesterday, but i made up for it today!
+
+**Link(s) to work**
+1. [PR that i partially authored got merged](https://github.com/getkey/ble/commit/e25f2e9f88ea09f4a06667f4734a3cce94fb21f1)
+2. [Helped setup docs for pancake lib](example.com/nolink)
+3. [Designed more on my phone case](http://www.tinkercad.com/things/e2GKFCrpMWB) (Usb OTG is amazing)
