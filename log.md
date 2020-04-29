@@ -67,3 +67,10 @@ you know, if I keep not putting anything here I should really think about removi
 1. [PR that i partially authored got merged](https://github.com/getkey/ble/commit/e25f2e9f88ea09f4a06667f4734a3cce94fb21f1)
 2. [Helped setup docs for pancake lib](example.com/nolink)
 3. [Designed more on my phone case](http://www.tinkercad.com/things/e2GKFCrpMWB) (Usb OTG is amazing)
+
+### Dy 10! April 28, Tuesday
+
+**Today's Progress**: Applied for a job as a software engineer, doubt ill get it it but still a fun experience
+
+**Link(s) to work**
+none
