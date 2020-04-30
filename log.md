@@ -68,9 +68,16 @@ you know, if I keep not putting anything here I should really think about removi
 2. [Helped setup docs for pancake lib](example.com/nolink)
 3. [Designed more on my phone case](http://www.tinkercad.com/things/e2GKFCrpMWB) (Usb OTG is amazing)
 
-### Dy 10! April 28, Tuesday
+### Day 10! April 28, Tuesday
 
 **Today's Progress**: Applied for a job as a software engineer, doubt ill get it it but still a fun experience
 
 **Link(s) to work**
 none
+
+### Day 11 : April 29, Wednesday
+
+**Today's Progress**: Today's a doozy! I forked an old minecraft server software built with python, then expanded it to work with pyraklib (a version of Raklib built in python) tomorrow i'm going to expand pyraklib's packet capabilities
+
+**Link(s) to work** 
+adding tomorrow
