@@ -81,3 +81,10 @@ none
 
 **Link(s) to work** 
 adding tomorrow
+
+### Day 12? April 30, Thursday
+
+**Today's progress**: Still working on my proxy. added a few more tests so that now we can make sure all the packets work and such. made a public announcement in the raspberry pi forums because it is intended for raspberry pi's. todya i'm going to add more packets and update the tests. lets hope we still pass them all by the end of day.
+
+**Link(s) to work**
+1. [MCBES](https://github.com/nobody5050/MCBES)
