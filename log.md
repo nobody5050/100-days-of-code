@@ -88,3 +88,10 @@ adding tomorrow
 
 **Link(s) to work**
 1. [MCBES](https://github.com/nobody5050/MCBES)
+
+### Day 13: May 1, Friday
+
+**Today's Progress**: edited the proxy to have more "cool stuff" and am currently working on a setup script. in the comming days i most likely also have to rewrite a ton of code so yaaaay. :/
+
+**Link(s) to work**
+same as yesterday.
